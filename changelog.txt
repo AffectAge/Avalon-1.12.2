@@ -1,2 +1,4 @@
 
 0.1.0 Alpha
+
+- Flint and Steel chanche to create fire set on 20%
