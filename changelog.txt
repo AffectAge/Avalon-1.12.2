@@ -5,7 +5,6 @@ ToDO
 
 - Сделать квест на компас, также baubles
 - Поводок изменить рецепт в асемблере
-- primal boat добавить рецепт
 - Cauldron minecraft удалить лишний рецепт
 - Brewing stand решить что делать
 - InfoAccessories добавить рецепты и квесты
