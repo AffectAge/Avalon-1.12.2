@@ -10,3 +10,4 @@ ToDO
 - Brewing stand решить что делать
 - InfoAccessories добавить рецепты и квесты
 - HorsePower изменить рецепты
+- Weather разобраться с блоками. Лишние удалить
