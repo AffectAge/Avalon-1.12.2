@@ -3,8 +3,6 @@
 
 ToDO
 
-- Поводок изменить рецепт в асемблере
-- Cauldron minecraft удалить лишний рецепт
 - Brewing stand решить что делать
 - InfoAccessories добавить рецепты и квесты
 - HorsePower изменить рецепты
