@@ -3,6 +3,8 @@
 
 ToDO
 
+- Исправить краш при ловле Fishing Made Better
+
 - Brewing stand решить что делать
 - InfoAccessories добавить рецепты и квесты
 - HorsePower изменить рецепты
